@@ -22,10 +22,11 @@ echo  $hello,$name,$world;
 //04
 
 $tech_boost = "tech";
-$tech_boost = "boost";
+$tech_boost .= " boost";
 
 
 echo $tech_boost;
+echo "\n";
 
 //05
 
